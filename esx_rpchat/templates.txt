@@ -1,0 +1,32 @@
+<!--OTI THELETE NA PIRAJETE GIA TO TEMPLATE BRISKETE EDW-->
+
+
+<!--ANON-->
+
+<div style="padding: 0.2vw; margin: 0.0vw; background-color: rgba(255, 0, 0, 0.8); border-radius: 61111px;"><i class=></i><img style="vertical-align:middle" src="https://cdn.discordapp.com/attachments/783115337804939274/805515358605017169/anonymous_mask_PNG32_1.png"><span style=>[Anonymous]: {1}.</span>
+
+
+<!--POLICE-->
+
+<div style="padding: 0.2vw; margin: 0.0vw; background-color: rgba(55, 0, 255, 0.8); border-radius: 61111px;"><i class=></i><img style="vertical-align:middle" src="https://cdn.discordapp.com/attachments/730069138654888011/805547616136986624/unnamed_2_1.png"><span style=>ΕΛ.ΑΣ: {1}.</span>
+
+<!--ADV-->
+
+<div style="padding: 0.2vw; margin: 0.0vw; background-color: rgba(229, 255, 0, 0.8); border-radius: 61111px;"><i class=></i><img style="vertical-align:middle" src="https://cdn.discordapp.com/attachments/730069138654888011/805548155902623798/image_3_1.png"><span style=>Advertisment: {1}.</span>
+
+
+<!--ROBBERY-->
+
+<div style="padding: 0.2vw; margin: 0.0vw; background-color: rgba(56, 56, 56, 0.8); border-radius: 61111px;"><i class=></i><img style="vertical-align:middle" src="https://cdn.discordapp.com/attachments/730069138654888011/805548829881008147/image_4_1.png"><span style=>[Robbery]: {1}.</span>
+
+
+<!--TWITTER-->
+
+<div style="padding: 0.2vw; margin: 0.0vw; background-color: rgba(47, 189, 255, 0.8); border-radius: 61111px;"><i class=></i><img style="vertical-align:middle" src="https://cdn.discordapp.com/attachments/730069138654888011/805549782382280754/pngguru_com-3_1.png"><span style=>@{0}: {1}.</span>
+
+<!--OOC-->
+
+<div style="padding: 0.2vw; margin: 0.0vw; background-color: rgba(0, 0, 0, 0.8); border-radius: 61111px;"><i class=></i><img style="vertical-align:middle" src="https://cdn.discordapp.com/attachments/730069138654888011/805550326424797204/m5JMMrW_1.png"><span style=>OOC: {1}.</span>
+
+
+
